@@ -130,6 +130,7 @@ studentFields = {
     'semesters': fields.List(fields.Nested(semesterFields))
 }
 
+#CRUD Functionalities
 class Students(Resource):
     @marshal_with(studentFields)
     def get(self):
