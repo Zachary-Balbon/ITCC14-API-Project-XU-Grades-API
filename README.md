@@ -15,7 +15,7 @@
   - All the endpoints that will be needed for this project.
   - An initial `api.py` file with initial endpoints and CRUD functionality.
 - **Checklist:**
-  - [ ] Meeting for endpoints.
+  - [x] Meeting for endpoints.
   - [ ] A `endpoints.txt` file showing the endpoints along with it's description.
 
 ### Milestone 2 (Nov Week 2): Continuation of creation of API
@@ -28,10 +28,10 @@
   - Running local server with working initial CRUD functionalities.
   - Applying CRUD functionality to at least 50% of the resources.
 - **Checklist:**
-  - [ ] Repo created + initial commit
-  - [ ] Env + dependencies installed
-  - [ ] Create endpoints work
-  - [ ] GitHub pushed
+  - [x] Repo created + initial commit
+  - [x] Env + dependencies installed
+  - [x] Create endpoints work
+  - [x] GitHub pushed
 
 ### Milestone 3 (Nov Week 3): Full Backend API + Start of Documentation
 
@@ -43,8 +43,8 @@
   - All planned endpoints implemented and tested locally.
   - Full functionality of CRUD.
 - **Checklist:**
-  - [ ] All endpoints done
-  - [ ] Full CRUD functionality
+  - [x] All endpoints done
+  - [x] Full CRUD functionality
 
 ### Milestone 4 (Nov Week 4): HTML Front-end Integration
 
