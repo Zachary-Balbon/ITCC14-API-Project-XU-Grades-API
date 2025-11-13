@@ -45,7 +45,7 @@
 - **Checklist:**
   - [x] All endpoints done
   - [x] Full CRUD functionality
-  - [ ] Initial documentation
+  - [x] Initial documentation
 
 ### Milestone 4 (Nov Week 4): HTML Front-end Integration
 
@@ -57,7 +57,7 @@
   - API integration.
   - Creation of `index.html`, `styles.css` and `scripts.js` for functionality.
 - **Checklist:**
-  - [ ] XU API Page
+  - [x] XU API Page
   - [ ] Integration of API through initial testing
 
 ### Milestone 5 (Dec Week 1): Full Front-End Integration with Full Documentation
